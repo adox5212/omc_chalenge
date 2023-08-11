@@ -1,0 +1,84 @@
+  *{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    margin-left: 285px;
+    color:rgb(17, 17, 17);
+    margin:auto;
+    margin-bottom: 5%;
+    margin-top: 2.5%;
+    width: 900px;
+    height: 70px;
+    font-size:2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.title01{
+    color:orange;
+    margin-left: 3%;
+    margin-bottom: 1.5%;
+    margin-top: -68px;
+    margin-right: 40%;
+    width: 36%;
+    font-size:1.8em;
+    position: relative;
+}
+.img03{
+    position: relative;
+    bottom:10%;
+    width: 15%;
+    height: 15%;
+    margin: 0;
+    padding: 0;
+    
+}
+    
+.img01{
+    float : right;
+    position: fixed;
+    right:20%;
+    height: 181px;
+width: 218.133px;
+}
+.paragraphe{ 
+    font-size: 2em;
+    padding: 10px; 
+    max-width: 700px;
+    padding-bottom: 5px;
+    margin-left: 3%;
+    height:159;
+    line-height: 1.35;
+}
+
+.pocoloco { 
+    font-weight:900;
+    margin-left: 6.5%;
+    margin-right: 29%;
+    margin-top: -30px;
+    font-size: 1.3em;  
+    max-width: 1000px;
+    line-height: 1.4;
+    float: left;
+}
+.img02{ 
+    
+    position: fixed;
+    left: 77%;
+    top: 50%;
+    height: 181px;
+width: 218.133px;
+   
+}
+.img04{ 
+    margin: 2.5%;
+    position: fixed;
+     left: -2.5%;
+     bottom:-7%;
+}
+.img05{ 
+    margin: 2.5%;
+    position: fixed;
+    bottom: -7%;
+    right: -2.5%;
+}
